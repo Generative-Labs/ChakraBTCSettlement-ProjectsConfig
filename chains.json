@@ -1,7 +1,7 @@
 [
     {
-        "name": "Binance Smart Chain Testnet",
-        "chainId": "97",
+        "name": "Ethereum",
+        "chainId": "1",
         "index": 1
     }
 ]
