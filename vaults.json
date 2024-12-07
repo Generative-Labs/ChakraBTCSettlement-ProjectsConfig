@@ -1,24 +1,23 @@
 [
-    {
-        "name": "Satoshi",
-"handle": "satoshi_eth",
-        "id": 1,
-        "vaultContractAddress": "0x47d64b21f54ca8bdf5b20189ec635c9176eed0fe",
-        "vaultChainId": "1"
-    },
-    {
-        "name": "Cygnus",
-"handle": "cygnus_eth",
-        "id": 2,
-        "vaultContractAddress": "0x00",
-        "vaultChainId": "97"
-    },
-
-    {
-        "name": "Pell",
-"handle": "pell_eth",
-        "id": 3,
-        "vaultContractAddress": "0x00",
-        "vaultChainId": "1"
-    }
+  {
+    "name": "Satoshi",
+    "handle": "satoshi_eth",
+    "id": 1,
+    "vaultContractAddress": "0x47d64b21f54ca8bdf5b20189ec635c9176eed0fe",
+    "vaultChainId": "1"
+  },
+  {
+    "name": "Cygnus",
+    "handle": "cygnus_eth",
+    "id": 2,
+    "vaultContractAddress": "0x00",
+    "vaultChainId": "97"
+  },
+  {
+    "name": "Pell",
+    "handle": "pell_eth",
+    "id": 3,
+    "vaultContractAddress": "0x00",
+    "vaultChainId": "1"
+  }
 ]
